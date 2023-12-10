@@ -1,4 +1,4 @@
-## BASIC QUESTIONS123
+## BASIC QUESTIONS
 #### Q1. How do search engine work so fast?   
 Distributed computing. Search engines have hundreds of thousands of more servers around the world. Each search is spread across multiple    servers, eliminating potential bottlenecks. If all the info had to come from a single server that might be busy when you make the search.   
 #### Q2. Will computer programming jobs be taken over by AI within the next 5-10 years?   
