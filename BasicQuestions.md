@@ -26,7 +26,4 @@ Web 1-3 describes phases of the internet. During web 1 and 2, data was stored ce
 #### Q13. Can someone explain to me the difference between firmware and software. Hardware is physical, software is code, WTF is firmware?   
 Firmware is just software, but it comes built into your hardware. It is completely inegrated into the hardware itselt and can be changed or upgraded.   
  backpack RAM is super fast but forgets things when the computer rests. It helps the computer do tasks quickly. Storage is like a treasure chest, slower but remembers everything even when the computer is off keeping all the important stuff safe for later adventures.  
-#### Q12. How do you explain web3 to people?   
-Web 1-3 describes phases of the internet. During web 1 and 2, data was stored centrally on a  developer's or company's server. Web3 transition away from the centralized model, with data distributed over multiple servers, creating collective ownership and verification of the data.   
-#### Q13. Can someone explain to me the difference between firmware and software. Hardware is physical, software is code, WTF is firmware?   
-Firmware is just software, but it comes built into your hardware. It is completely inegrated into the hardware itselt and can be changed or upgraded.   
+   
